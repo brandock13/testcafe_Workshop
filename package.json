@@ -1,0 +1,11 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Brandon Padilla",
+  "license": "ISC"
+}
